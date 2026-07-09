@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Ray Media",
+    "slug": "ray-media",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "orientation": "portrait"
+  }
+}
