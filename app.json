@@ -3,8 +3,10 @@
     "name": "Ray Media",
     "slug": "ray-media",
     "version": "1.0.0",
+    "sdkVersion": "51.0.0",
     "platforms": ["android"],
     "orientation": "portrait",
+    "icon": "./assets/icon.png",
     "android": {
       "package": "com.raymedia.app"
     }
