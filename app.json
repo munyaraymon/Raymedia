@@ -4,6 +4,9 @@
     "slug": "ray-media",
     "version": "1.0.0",
     "platforms": ["android"],
-    "orientation": "portrait"
+    "orientation": "portrait",
+    "android": {
+      "package": "com.raymedia.app"
+    }
   }
 }
