@@ -1,14 +1,11 @@
 {
   "expo": {
-    "name": "Ray Media",
-    "slug": "ray-media",
+    "name": "Raymedia",
+    "slug": "raymedia",
     "version": "1.0.0",
-    "sdkVersion": "51.0.0",
-    "platforms": ["android"],
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "android": {
-      "package": "com.raymedia.app"
+      "package": "com.munyandoro.raymedia",
+      "versionCode": 1
     }
   }
 }
